@@ -1,0 +1,4 @@
+Total subject: 6..Total student :3..There result are: 
+Student :1..Total marks :400..Grade : A-
+Student :2..Total marks :460..Grade : A
+Student :3..Total marks :450..Grade : A

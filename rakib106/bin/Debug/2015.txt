@@ -1,0 +1,4 @@
+Total subject: 6..Total student :3..There result are: 
+Student :1..Total marks :390..Grade : A-
+Student :2..Total marks 530..Grade : A+..This student get scolarship
+Student :3..Total marks :400..Grade : A-

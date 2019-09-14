@@ -1,0 +1,84 @@
+E:\Visual studio\rakib106\rakib106\bin\Debug\rakib106.exe.config
+E:\Visual studio\rakib106\rakib106\bin\Debug\rakib106.exe
+E:\Visual studio\rakib106\rakib106\bin\Debug\rakib106.pdb
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.csprojResolveAssemblyReference.cache
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.Form1.resources
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.Properties.Resources.resources
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.result.resources
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.room.resources
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.student.resources
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.teacher.resources
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.csproj.GenerateResource.Cache
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.exe
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.pdb
+E:\Visual studio\rakib106\rakib106\obj\Debug\rakib106.routine.resources
+E:\Visual studio\project\rakib106\bin\Debug\rakib106.exe.config
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.exe
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.pdb
+E:\Visual studio\project\rakib106\bin\Debug\rakib106.exe
+E:\Visual studio\project\rakib106\bin\Debug\rakib106.pdb
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.csprojResolveAssemblyReference.cache
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.Form1.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.Properties.Resources.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.result.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.room.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.routine.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.student.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.teacher.resources
+E:\Visual studio\project\rakib106\obj\Debug\rakib106.csproj.GenerateResource.Cache
+E:\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe.config
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.exe
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.pdb
+E:\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe
+E:\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.pdb
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csprojResolveAssemblyReference.cache
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Form1.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Properties.Resources.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.result.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.room.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.routine.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.student.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.teacher.resources
+E:\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csproj.GenerateResource.Cache
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe.config
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.pdb
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csprojResolveAssemblyReference.cache
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Form1.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Properties.Resources.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.result.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.room.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.routine.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.student.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.teacher.resources
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csproj.GenerateResource.Cache
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.exe
+C:\Users\Yousuf Rakib\Desktop\Rakib\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.pdb
+F:\SWE\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe.config
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.exe
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.pdb
+F:\SWE\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe
+F:\SWE\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.pdb
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csprojResolveAssemblyReference.cache
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Form1.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Properties.Resources.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.result.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.room.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.routine.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.student.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.teacher.resources
+F:\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csproj.GenerateResource.Cache
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe.config
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.exe
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.pdb
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.exe
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\bin\Debug\rakib106.pdb
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csprojResolveAssemblyReference.cache
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Form1.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.Properties.Resources.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.result.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.room.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.routine.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.student.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.teacher.resources
+E:\SWE\SWE\Visual studio\Windows from\project\rakib106\obj\Debug\rakib106.csproj.GenerateResource.Cache
